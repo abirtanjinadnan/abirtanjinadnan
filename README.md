@@ -6,10 +6,10 @@
 <!-- Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on optical eye (metalens), machine learning and quantum computing   
-- 🌱 I’m currently learning quantum computing   
+- 🌱 I’m currently learning quantum computing      
 - 👯 I’m looking to collaborate on research or projects   
 - 🤔 I’m looking for help with quantum computing   
-- 💬 Ask me about anything   
+<!-- - 💬 Ask me about anything    -->
 - 📫 How to reach me: abirtanjinadnan@gmail.com
 - 😄 Pronouns: he/ him   
 <!-- - ⚡ Fun fact: ... -->

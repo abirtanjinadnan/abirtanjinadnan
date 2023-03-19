@@ -10,8 +10,8 @@
 - 🌱 I’m currently learning quantum computing      
 - 👯 I’m looking to collaborate on research or projects   
 - 🤔 I’m looking for help with quantum computing   
-<!-- - 💬 Ask me about anything    -->
 - 📫 How to reach me: abirtanjinadnan@gmail.com
 - 😄 Pronouns: he/ him   
+<!-- - 💬 Ask me about anything    -->
 <!-- - ⚡ Fun fact: ... -->
 

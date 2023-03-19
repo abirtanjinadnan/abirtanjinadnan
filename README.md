@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**abirtanjinadnan/abirtanjinadnan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<!-- **abirtanjinadnan/abirtanjinadnan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Here are some ideas to get you started: -->
+
+- 🔭 I’m currently working on optical eye (metalens), machine learning and quantum computing   
+- 🌱 I’m currently learning quantum computing   
+- 👯 I’m looking to collaborate on research or projects   
+- 🤔 I’m looking for help with quantum computing   
+- 💬 Ask me about anything   
+- 📫 How to reach me: abirtanjinadnan@gmail.com
+- 😄 Pronouns: he/ him   
+<!-- - ⚡ Fun fact: ... -->
+
